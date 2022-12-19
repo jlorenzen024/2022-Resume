@@ -4,7 +4,5 @@ img {
     margin-right: auto;
 }
 body {
-background-color: lightskyblue
-
-    
+background-image: radial-gradient(rgb(0, 91, 209),lightskyblue);
 }
